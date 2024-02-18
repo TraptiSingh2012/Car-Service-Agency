@@ -1,7 +1,13 @@
 Read Me: 
 •	The project is built on the Java, Spring boot 
 •	The database is the H2 database.
-
+Requirements:
+•	You need Intellij Idea and postman
+•	Install JDK – 17 
+•	Download the project from Github
+•	Build the project and run
+•	Exposed port is 8080(by default)
+•	Hit the API through postman and you will get the result there.
 Problem:
 •	I want to create an online scheduler website for the car service agency. The agency has many service operators who must take in appointments for customers for a limited time.
 •	A Service operator can take 1-hour appointments for all 24 hours, and they are available 24 x 7 x 365 days (sorry no vacation for them).
